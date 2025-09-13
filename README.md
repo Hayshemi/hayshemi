@@ -12,7 +12,7 @@
 <h4 align="center">- About Me -</h4>
 
 - 🧠 Focused on: **Reverse Engineering, Windows Internals, Python Tooling, and Cybersecurity.**
-- 🛠️ Projects: **Game Memory Manipulation, Remote Admin Tools, Minecraft Anticheats, Flipper Zero Attachments and Firmware.**
+- 🛠️ Projects: **Game Memory Manipulation, Remote Admin Tools, Minecraft Mods & Plugins (Mainly Anticheats).**
 - 🎓 Learning: **Exploit Development, Binary Analysis, and Full-Stack Engineering.**
 
 ---

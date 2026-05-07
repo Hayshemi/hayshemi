@@ -1,19 +1,10 @@
 <h1 align="center">Hey 👋, I'm Hayshemi</h1>
-<h3 align="center">I'm a 16-year-old Software Engineer, Security Researcher, and Content Creator.</h3>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=hayshemi&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /> 
 <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&color=ff0000&style=flat&url=https://api.github-star-counter.workers.dev/user/hayshemi" alt="Total Stars"> 
 <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24.forks&color=orange&style=flat&url=https://api.github-star-counter.workers.dev/user/hayshemi" alt="Total Forks">
 </p>
-
----
-
-<h4 align="center">- About Me -</h4>
-
-- 🧠 Focused on: **Reverse Engineering, Windows Internals, Python Tooling, and Cybersecurity.**
-- 🛠️ Projects: **Game Memory Manipulation, Remote Admin Tools, Minecraft Mods & Plugins (Mainly Anticheats).**
-- 🎓 Learning: **Exploit Development, Binary Analysis, and Full-Stack Engineering.**
 
 ---
 

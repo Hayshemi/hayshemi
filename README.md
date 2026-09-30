@@ -8,6 +8,14 @@
 
 ---
 
+<h4 align="center">- About Me -</h4>
+
+<p align="center">
+Cybersecurity enthusiast and developer. Staff member for SkySpoofer from 2022–2024, with experience working on multiple private projects across cybersecurity, software development, and technology.
+</p>
+
+---
+
 <h4 align="center">- Languages & Tools -</h4>
 
 <p align="center">
@@ -18,7 +26,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayshemi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>

@@ -11,7 +11,7 @@
 <h4 align="center">- About Me -</h4>
 
 <p align="center">
-Cybersecurity enthusiast and developer. Staff member for SkySpoofer from 2022–2024, with experience working on multiple private projects across cybersecurity, software development, and technology.
+Cybersecurity enthusiast and developer focused on reverse engineering, security research, and software development. Former staff member of SkySpoofer (2022–2024), developer of multiple private projects, and a member of the private 2096 community.
 </p>
 
 ---
